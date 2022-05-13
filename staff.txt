@@ -5,4 +5,3 @@ crussell
 esavoie
 fgadbois
 iarpin
-sconnor
