@@ -6,3 +6,10 @@ pmNd1ldFE7WTk
 mousqueton
 gants
 taser
+brassard
+menottes
+cyno
+talky
+lampe
+kit
+lacrymo
