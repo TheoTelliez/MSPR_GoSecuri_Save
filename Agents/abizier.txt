@@ -4,4 +4,5 @@ Surveilance entrepôt
 pmNd1ldFE7WTk
 
 lampe
-menottes
+kit
+mousqueton
