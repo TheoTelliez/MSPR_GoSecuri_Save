@@ -3,7 +3,5 @@ Arnaud
 Surveilance entrepôt
 pmNd1ldFE7WTk
 
-mousqueton
 lampe
-kit
-taser
+menottes
