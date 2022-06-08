@@ -4,6 +4,6 @@ Surveilance entrepôt
 pmNd1ldFE7WTk
 
 mousqueton
-gants
-brassard
-menottes
+lampe
+kit
+taser
