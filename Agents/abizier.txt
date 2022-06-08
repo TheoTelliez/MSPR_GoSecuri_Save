@@ -3,6 +3,7 @@ Arnaud
 Surveilance entrepôt
 pmNd1ldFE7WTk
 
-mousqueton
-talky
-lampe
+cyno
+menottes
+brassard
+kit
