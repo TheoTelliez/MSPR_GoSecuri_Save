@@ -7,9 +7,3 @@ mousqueton
 gants
 brassard
 menottes
-cyno
-talky
-lampe
-kit
-taser
-lacrymo
