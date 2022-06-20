@@ -7,4 +7,3 @@ brassard
 gants
 mousqueton
 menottes
-lampe
